@@ -1,0 +1,12 @@
+{
+    "APP_NAME": "Data Ingestion from MySQL to HDFS Hive using PySpark",
+    "AUTHOR": "Vitwit",
+    "DATABASE": {
+        "url": "jdbc:mysql://localhost/test",
+        "driver": "com.mysql.jdbc.Driver",
+        "user": "root",
+        "password": "",
+        "dbtable": "creditCard"
+    },
+    "FILE_PATH": "creditcard.csv"
+}
