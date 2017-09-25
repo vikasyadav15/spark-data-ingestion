@@ -1,3 +1,5 @@
 spark-warehouse/*
 .venv
 .vscode
+.idea/
+src/spark-warehouse/
